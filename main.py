@@ -2,10 +2,6 @@
 #ALGORTHIM USED BACKTRACKING
 # INPUT THE NUMBERS
 
-#number=int(input('Hi Sara please enter the total count of numbers'))
-
-
-
 #CREATE A BOARD AS A NESTED LIST , EMPTY SQUAARES = 0
 
 
